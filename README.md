@@ -1,1 +1,13 @@
-# My-first-code
+<html>
+<head>
+<title>Johntez - JOOUST CS</title>
+</head>
+<body>
+<h1>Hello, I am Johntez</h1>
+<p>BSc Computer Science @ JOOUST</p>
+<p>From Migori, Kenya</p>
+<p>Aspiring Software Developer</p>
+<hr>
+<p>This is my first website! Hosted on GitHub!</p>
+</body>
+</html>
